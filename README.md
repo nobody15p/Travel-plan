@@ -1,1 +1,2 @@
-# Travel-plan
+# CBFriendsCost
+CB Project
